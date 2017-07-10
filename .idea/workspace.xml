@@ -2,14 +2,192 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b73ae449-8ab2-4b9a-8e59-105e29ccb8a2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4myjob_v2/i4myjob_v2_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_31.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_34.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_35.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v1/i4tradies_v1_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/i4tradies_v2/i4tradies_v2_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo_white_200.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightignle.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_17.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_19.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/nightingale/nightingale_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/i4tradies_v1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/i4tradies_v2.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nightingale/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phonesmith/9.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/i4tradies/1.png" afterPath="$PROJECT_DIR$/img/i4tradies/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.html" afterPath="$PROJECT_DIR$/header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nightingale.html" afterPath="$PROJECT_DIR$/nightingale.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonesmith.html" afterPath="$PROJECT_DIR$/phonesmith.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/velocitymeter.html" afterPath="$PROJECT_DIR$/velocitymeter.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vertecbill.html" afterPath="$PROJECT_DIR$/vertecbill.html" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,7 +199,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -30,23 +207,85 @@
     <favorites_list name="portfolio" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
-              <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+            <state relative-caret-position="323">
+              <caret line="29" column="54" lean-forward="false" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="i4tradies_v1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/i4tradies_v1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.9615384">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="328">
+              <caret line="34" column="52" lean-forward="false" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#20;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#25;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#29;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#30;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#31;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#32;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#33;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#34;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#35;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#36;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#37;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#38;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="i4tradies_v2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/i4tradies_v2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#16;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#17;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#18;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#20;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#21;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#22;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#23;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#24;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#25;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#26;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#27;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#28;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,19 +293,31 @@
       <file leaf-file-name="nightingale.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nightingale.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="phonesmith.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phonesmith.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="170">
+              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#16;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#17;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#18;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -74,24 +325,30 @@
       <file leaf-file-name="velocitymeter.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/velocitymeter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.423077">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vertecbill.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vertecbill.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6007533">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="612">
+              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>class=&quot;thumbnail&quot;</find>
+      <find>i4tradies</find>
+      <find>src=&quot;img/i4tradies/</find>
+      <find>&lt;img src=&quot;img/i4tradies_v2</find>
+      <find>img src=&quot;img/i4tradies_v2/i4tradies_v2</find>
+      <find>img src=&quot;img/i4tradies_v2/</find>
+      <find>img src=&quot;img/i4tradies_v1/</find>
+      <find>src=&quot;img/phonesmith</find>
+      <find>src=&quot;img/velocitymeter/</find>
+      <find>src=&quot;img/nightingale/</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,19 +356,26 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/vertecbill.html" />
+        <option value="$PROJECT_DIR$/i4myjobs_v2.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/header.html" />
+        <option value="$PROJECT_DIR$/i4tradies_v2.html" />
+        <option value="$PROJECT_DIR$/i4tradies_v1.html" />
         <option value="$PROJECT_DIR$/nightingale.html" />
         <option value="$PROJECT_DIR$/phonesmith.html" />
         <option value="$PROJECT_DIR$/velocitymeter.html" />
-        <option value="$PROJECT_DIR$/vertecbill.html" />
+        <option value="$PROJECT_DIR$/header.html" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -120,15 +384,8 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -152,6 +409,10 @@
               <option name="myItemId" value="portfolio" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -160,22 +421,93 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/my web/html5up-lens" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\portfolio\portfolio" />
+      <recent name="G:\portfolio\portfolio\img" />
+      <recent name="G:\portfolio\portfolio\img\i4tradies" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -189,48 +521,96 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b73ae449-8ab2-4b9a-8e59-105e29ccb8a2" name="Default" comment="" />
       <created>1481338502241</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1481338502241</updated>
+      <workItem from="1499469634171" duration="10386000" />
+      <workItem from="1499697074318" duration="6651000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17349927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6700855" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6687697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -248,58 +628,346 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+    <entry file="file://$PROJECT_DIR$/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1105">
+          <caret line="65" column="49" lean-forward="false" selection-start-line="65" selection-start-column="49" selection-end-line="65" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.html">
+    <entry file="file://$PROJECT_DIR$/img/i4tradies/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i4tradies_v1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
-          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.9615384">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="1003">
+          <caret line="59" column="7" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="60" lean-forward="false" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nightingale.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phonesmith.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/velocitymeter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertecbill.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6007533">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="60" lean-forward="false" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nightingale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonesmith.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/velocitymeter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vertecbill.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/i4tradies/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/params.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonesmith.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="50" lean-forward="true" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vertecbill.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i4tradies_v1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="34" column="52" lean-forward="false" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#20;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#25;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#29;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#30;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#31;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#32;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#33;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#34;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#35;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#36;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#37;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#38;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i4tradies_v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#16;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#17;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#18;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#20;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#21;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#22;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#23;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#24;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#25;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#26;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#27;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#28;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nightingale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#16;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#17;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#18;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/velocitymeter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="29" column="54" lean-forward="false" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
           <folding />
         </state>
       </provider>
