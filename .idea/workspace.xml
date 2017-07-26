@@ -2,50 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b73ae449-8ab2-4b9a-8e59-105e29ccb8a2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718037.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718043.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718059.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718086.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718089.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718097.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718105.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718111.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718115.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718131.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718153.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718157.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718161.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718180.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718344.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718348.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718352.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718356.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718416.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718425.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718524.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718553.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718570.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718575.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718604.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718607.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718610.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718650.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718659.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718662.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718670.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718691.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718713.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718716.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718735.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718741.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718744.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718756.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718768.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718927.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718937.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718942.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498718985.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/Screenshot_1498722066.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="portfolio.iws" />
@@ -70,8 +26,8 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+            <state relative-caret-position="280">
+              <caret line="45" column="98" lean-forward="false" selection-start-line="45" selection-start-column="98" selection-end-line="45" selection-end-column="98" />
               <folding />
             </state>
           </provider>
@@ -470,7 +426,7 @@
       <updated>1481338502241</updated>
       <workItem from="1499469634171" duration="10386000" />
       <workItem from="1499697074318" duration="8521000" />
-      <workItem from="1501093442214" duration="1155000" />
+      <workItem from="1501093442214" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="new changes">
       <created>1499709661604</created>
@@ -486,11 +442,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501093624614</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new changes cv app images">
+      <created>1501095627272</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1501095627272</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20062000" />
+    <option name="totallyTimeSpent" value="20109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -1013,8 +976,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="38" column="21" lean-forward="true" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        <state relative-caret-position="280">
+          <caret line="45" column="98" lean-forward="false" selection-start-line="45" selection-start-column="98" selection-end-line="45" selection-end-column="98" />
           <folding />
         </state>
       </provider>
