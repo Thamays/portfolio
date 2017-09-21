@@ -2,7 +2,222 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b73ae449-8ab2-4b9a-8e59-105e29ccb8a2" name="Default" comment="dfasfsagf">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/i4myjob_v2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/i4tradies_v3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_43.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/37.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/9.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/phonesmith/phonesmith.psd" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith.psd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.html" afterPath="$PROJECT_DIR$/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i4tradies_v2.html" afterPath="$PROJECT_DIR$/i4tradies_v2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,6 +232,15 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="portfolio" />
@@ -26,9 +250,21 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="55" column="36" lean-forward="true" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+            <state relative-caret-position="357">
+              <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -36,8 +272,8 @@
       <file leaf-file-name="i4tradies_v1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/i4tradies_v1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="52" lean-forward="false" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+            <state relative-caret-position="170">
+              <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -65,11 +301,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="vertecbill.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vertecbill.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="i4myjob_v2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/i4myjob_v2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="i4tradies_v2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/i4tradies_v2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+            <state relative-caret-position="187">
+              <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -105,45 +361,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nightingale.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nightingale.html">
+      <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+            <state relative-caret-position="119">
+              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
               <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#16;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#17;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#18;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="velocitymeter.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/velocitymeter.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -154,7 +378,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>class=&quot;thumbnail&quot;</find>
-      <find>i4tradies</find>
       <find>src=&quot;img/i4tradies/</find>
       <find>&lt;img src=&quot;img/i4tradies_v2</find>
       <find>img src=&quot;img/i4tradies_v2/i4tradies_v2</find>
@@ -163,6 +386,8 @@
       <find>src=&quot;img/phonesmith</find>
       <find>src=&quot;img/velocitymeter/</find>
       <find>src=&quot;img/nightingale/</find>
+      <find>i4tradies</find>
+      <find>i4tradies_v2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -177,14 +402,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vertecbill.html" />
         <option value="$PROJECT_DIR$/i4myjobs_v2.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/i4tradies_v2.html" />
         <option value="$PROJECT_DIR$/i4tradies_v1.html" />
         <option value="$PROJECT_DIR$/nightingale.html" />
         <option value="$PROJECT_DIR$/phonesmith.html" />
         <option value="$PROJECT_DIR$/velocitymeter.html" />
+        <option value="$PROJECT_DIR$/i4tradies_v3.html" />
+        <option value="$PROJECT_DIR$/sri_lanka.html" />
+        <option value="$PROJECT_DIR$/resume.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/i4myjob_v2.html" />
+        <option value="$PROJECT_DIR$/vertecbill.html" />
         <option value="$PROJECT_DIR$/header.html" />
       </list>
     </option>
@@ -204,6 +433,22 @@
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -277,29 +522,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cv_app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="portfolio" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cv_app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="i4MyJobV2" />
+              <option name="myItemId" value="resume" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,11 +550,12 @@
     <property name="last_opened_file_path" value="E:/my web/html5up-lens" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\portfolio\portfolio\img\cv_app" />
       <recent name="G:\portfolio\portfolio" />
+      <recent name="G:\portfolio\portfolio\img\cv_app" />
       <recent name="G:\portfolio\portfolio\img" />
       <recent name="G:\portfolio\portfolio\img\i4tradies" />
     </key>
@@ -432,7 +656,9 @@
       <updated>1481338502241</updated>
       <workItem from="1499469634171" duration="10386000" />
       <workItem from="1499697074318" duration="8521000" />
-      <workItem from="1501093442214" duration="2550000" />
+      <workItem from="1501093442214" duration="6378000" />
+      <workItem from="1505320651997" duration="594000" />
+      <workItem from="1506005615389" duration="4810000" />
     </task>
     <task id="LOCAL-00001" summary="new changes">
       <created>1499709661604</created>
@@ -501,16 +727,26 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21457000" />
+    <option name="totallyTimeSpent" value="30689000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17349927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6687697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -522,7 +758,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -562,6 +797,238 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i4tradies_v1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="52" lean-forward="false" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#20;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#25;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#29;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#30;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#31;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#32;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#33;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#34;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#35;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#36;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#37;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#38;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i4tradies_v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#16;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#17;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#18;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#20;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#21;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#22;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#23;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#24;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#25;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#26;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#27;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#28;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nightingale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#16;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#17;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#18;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/velocitymeter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i4tradies_v1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="52" lean-forward="false" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#20;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#25;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#29;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#30;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#31;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#32;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#33;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#34;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#35;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#36;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#37;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#38;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i4tradies_v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#16;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#17;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#18;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#20;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#21;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#22;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#23;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#24;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#25;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#26;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#27;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#28;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nightingale.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#16;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#17;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#18;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/velocitymeter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -721,7 +1188,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/i4myjob_v2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1003">
           <caret line="59" column="7" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
@@ -736,7 +1203,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/i4myjob_v2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -794,7 +1261,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +1272,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/i4myjob_v2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -864,7 +1330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -880,7 +1345,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/i4myjob_v2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
@@ -894,13 +1359,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phonesmith.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -908,48 +1366,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vertecbill.html">
+    <entry file="file://$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_13.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/i4tradies/4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/resume/resume_9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/resume/resume_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i4tradies_v3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="-131">
+          <caret line="41" column="10" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/i4tradies_v1.html">
+    <entry file="file://$PROJECT_DIR$/nightingale.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="52" lean-forward="false" selection-start-line="34" selection-start-column="52" selection-end-line="34" selection-end-column="52" />
+        <state relative-caret-position="17">
+          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#16;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#17;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#18;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#20;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#25;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#29;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#30;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#31;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#32;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#33;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#34;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#35;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#36;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#37;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#38;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/velocitymeter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="54" column="43" lean-forward="true" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i4myjob_v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/i4tradies_v2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        <state relative-caret-position="187">
+          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -984,55 +1505,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nightingale.html">
+    <entry file="file://$PROJECT_DIR$/i4tradies_v1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        <state relative-caret-position="170">
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#6;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#7;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#8;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#9;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#11;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#13;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#15;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#16;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#17;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#18;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#19;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#20;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#25;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#29;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#30;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#31;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#32;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#33;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#34;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#35;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#36;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#37;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#38;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/velocitymeter.html">
+    <entry file="file://$PROJECT_DIR$/vertecbill.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#li#2;n#ul#0;n#nav#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="340">
+          <caret line="25" column="48" lean-forward="false" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+          <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_13.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="55" column="36" lean-forward="true" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+        <state relative-caret-position="357">
+          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
           <folding />
         </state>
       </provider>
