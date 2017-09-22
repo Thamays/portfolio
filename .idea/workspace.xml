@@ -1,223 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b73ae449-8ab2-4b9a-8e59-105e29ccb8a2" name="Default" comment="dfasfsagf">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/i4myjob_v2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/i4tradies_v3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resume.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Nightingale/Nightingale_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/Phonesmith/Phonesmith_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VelocityMeter/VelocityMeter_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/VertecBill/VertecBill_9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4MyJobV2/i4MyJobsV2_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV1/i4TradiesV1_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/cv_app/i4TradiesV2/i4TradiesV2_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/23.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/26.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/35.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/i4tradies/9.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/phonesmith/phonesmith.psd" afterPath="$PROJECT_DIR$/img/phonesmith/phonesmith.psd" />
+    <list default="true" id="b73ae449-8ab2-4b9a-8e59-105e29ccb8a2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.html" afterPath="$PROJECT_DIR$/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/i4tradies_v2.html" afterPath="$PROJECT_DIR$/i4tradies_v2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -250,8 +35,8 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+            <state relative-caret-position="289">
+              <caret line="27" column="67" lean-forward="true" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -260,8 +45,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+            <state relative-caret-position="255">
+              <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -315,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/i4myjob_v2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+              <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -364,8 +149,8 @@
       <file leaf-file-name="resume.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resume.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+            <state relative-caret-position="153">
+              <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -410,10 +195,10 @@
         <option value="$PROJECT_DIR$/velocitymeter.html" />
         <option value="$PROJECT_DIR$/i4tradies_v3.html" />
         <option value="$PROJECT_DIR$/sri_lanka.html" />
-        <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/i4myjob_v2.html" />
         <option value="$PROJECT_DIR$/vertecbill.html" />
+        <option value="$PROJECT_DIR$/i4myjob_v2.html" />
+        <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/header.html" />
       </list>
     </option>
@@ -658,7 +443,7 @@
       <workItem from="1499697074318" duration="8521000" />
       <workItem from="1501093442214" duration="6378000" />
       <workItem from="1505320651997" duration="594000" />
-      <workItem from="1506005615389" duration="4810000" />
+      <workItem from="1506005615389" duration="6670000" />
     </task>
     <task id="LOCAL-00001" summary="new changes">
       <created>1499709661604</created>
@@ -723,11 +508,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501097809580</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="oder change">
+      <created>1506043569938</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1506043569938</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30689000" />
+    <option name="totallyTimeSpent" value="32549000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -790,7 +582,8 @@
     <MESSAGE value="new changes cv app images" />
     <MESSAGE value="sdegvbsdhd" />
     <MESSAGE value="dfasfsagf" />
-    <option name="LAST_COMMIT_MESSAGE" value="dfasfsagf" />
+    <MESSAGE value="oder change" />
+    <option name="LAST_COMMIT_MESSAGE" value="oder change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1439,34 +1232,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resume.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/i4myjob_v2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="25" column="45" lean-forward="true" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/i4tradies_v2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1543,10 +1308,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/i4myjob_v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resume.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        <state relative-caret-position="289">
+          <caret line="27" column="67" lean-forward="true" selection-start-line="27" selection-start-column="67" selection-end-line="27" selection-end-column="67" />
           <folding />
         </state>
       </provider>
